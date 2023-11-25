@@ -1,2 +1,2 @@
-CLIENT_ID = '6e74bcd0bd0d4a0d989ddb10b891cad6'
-CLIENT_SECRET = 'c839dfe0bd9b448b95917c273ba958f3'
+CLIENT_ID = 'your client ID'
+CLIENT_SECRET = 'your client secret'

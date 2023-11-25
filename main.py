@@ -2,11 +2,6 @@ import requests
 from config import CLIENT_ID, CLIENT_SECRET
 
 
-# # Spotify API credentials
-# CLIENT_ID = 'insert your client ID'
-# CLIENT_SECRET = 'insert your client secret'
-
-
 # Function to retrieve access token
 def get_access_token():
     token_url = 'https://accounts.spotify.com/api/token'
