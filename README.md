@@ -1,6 +1,5 @@
 ### Hiya there 👋
 
-![Profile Picture](profile_image/ab.jpg)
 
 👋 I'm Andreia, on an incredible journey from Law to Tech. As a black immigrant woman in the stunning country of Wales in the UK, I'm weaving my legal background into the fabric of technology to create impact where it's needed most.
 
