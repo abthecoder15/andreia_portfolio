@@ -9,7 +9,7 @@
 
 
 ## Repository Highlights
-- [Project 1](link-to-project-1): Description of Project 1
+- [Project 1](spotify): Artist Search, using Spotify API
 - [Project 2](link-to-project-2): Description of Project 2
 - [Project 3](link-to-project-3): Description of Project 3
   
