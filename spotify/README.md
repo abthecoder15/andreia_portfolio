@@ -17,3 +17,9 @@ This project interacts with the Spotify API to search for artists, retrieve thei
 ## Dependencies
 - Python 3
 - Requests library
+
+## Contributing
+Contributions are welcome! Please open an issue or create a pull request to suggest improvements.
+
+## Support
+For any questions or issues, contact [acb.tech2023@@gmail.com].
