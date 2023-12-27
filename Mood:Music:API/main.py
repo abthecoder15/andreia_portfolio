@@ -31,9 +31,9 @@ with open('config.json', 'w+') as config_file:
     config_file.write(config)
 
 # Spotify API credentials (fill your credentials here)
-SPOTIFY_CLIENT_ID = '6e74bcd0bd0d4a0d989ddb10b891cad6'
-SPOTIFY_CLIENT_SECRET = 'c839dfe0bd9b448b95917c273ba958f3'
-SPOTIFY_REDIRECT_URI = 'http://localhost:3000/callback'
+SPOTIFY_CLIENT_ID = ''
+SPOTIFY_CLIENT_SECRET = ''
+SPOTIFY_REDIRECT_URI = ''
 
 # Specify file paths and directories
 PARENT_DIRECTORY = '/Users/rg/PycharmProjects/cfg-python./CFGDEGREE'
