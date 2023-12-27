@@ -39,5 +39,14 @@ To run this project locally:
    ```bash
    git clone https://github.com/abthecoder15/adoption_centre.git
 
+## Dependencies
+
+- Flask==2.0.1
+- SQLAlchemy==1.4.25
+- requests==2.26.0
+
+## Contributing
+Contributions are welcome! Please open an issue or create a pull request to suggest improvements.
+
 ## Support
 For any questions or issues, contact [acb.tech2023@gmail.com](mailto:acb.tech2023@gmail.com).
