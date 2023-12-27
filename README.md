@@ -10,7 +10,7 @@
 
 ## Repository Highlights
 - [Project 1](spotify): Artist Search, using Spotify API
-- [Project 2](link-to-project-2): Description of Project 2
+- [Project 2](adoption_centre): Virtual Adoption Centre 
 - [Project 3](link-to-project-3): Description of Project 3
   
 
@@ -21,3 +21,7 @@
 
 ## Contact Information
 - [LinkedIn](https://www.linkedin.com/in/andreia-byda/)
+  
+
+## Support
+For any questions or issues, contact [acb.tech2023@gmail.com](mailto:acb.tech2023@gmail.com).
