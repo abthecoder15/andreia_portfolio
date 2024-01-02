@@ -11,7 +11,7 @@
 ## Repository Highlights
 - [Project 1](spotify): Artist Search, using Spotify API
 - [Project 2](adoption_centre): Virtual Adoption Centre 
-- [Project 3](Mood_Music_API): Mood Music Suggestion
+- [Project 3](Mood:Music:API): Mood Music Suggestion
 - [Project 4](whiteboard_app): Whiteboard App using Tkinker
   
 
