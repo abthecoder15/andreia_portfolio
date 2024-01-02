@@ -7,7 +7,6 @@ def start_drawing(event):
     is_drawing = True
     prev_x, prev_y = event.x, event.y
 
-
 # Function to draw based on mouse movement
 def draw(event):
     global is_drawing, prev_x, prev_y
@@ -17,12 +16,10 @@ def draw(event):
         canvas.create_line(prev_x, prev_y, current_x, current_y, fill=drawing_color, width=line_width, capstyle=tk.ROUND, smooth=True)
         prev_x, prev_y = current_x, current_y
 
-
 # Function to stop drawing
 def stop_drawing(event):
     global is_drawing
     is_drawing = False
-
 
 # Function to change pen color using color picker
 def change_pen_color():
@@ -31,15 +28,13 @@ def change_pen_color():
     if color:
         drawing_color = color
 
-
 # Function to change line width using slider
 def change_line_width(value):
     global line_width
     line_width = int(value)
 
-
 root = tk.Tk()
-root.title("Whiteboard App")
+root.title("Your Whiteboard App")
 
 canvas = tk.Canvas(root, bg="white")
 canvas.pack(fill="both", expand=True)
@@ -72,4 +67,3 @@ canvas.bind("<B1-Motion>", draw)
 canvas.bind("<ButtonRelease-1>", stop_drawing)
 
 root.mainloop()
-
