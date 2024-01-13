@@ -1,0 +1,4 @@
+2024-01-13 20:33:47,327 - INFO - Database connected successfully!
+2024-01-13 20:34:00,015 - INFO - Registered username: anna, Hashed password: anna
+2024-01-13 20:34:03,379 - INFO - Logged in: anna
+2024-01-13 20:34:12,312 - INFO - Score updated: HigherScoreLevel1 - Username: anna, Score: 0
